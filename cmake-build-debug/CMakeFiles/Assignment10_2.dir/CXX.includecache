@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/patriciacurry/Desktop/CS10C/Assignment10/Assignment10_2/main.cpp
+iostream
+-
+fstream
+-
+queue
+-
+
